@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "g4f": "^1.4.6"
+  }
+}
