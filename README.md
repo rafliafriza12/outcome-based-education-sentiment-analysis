@@ -59,7 +59,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap diskusi mengenai
   - Berisi seluruh dataset dari srapping twitter (masih noise).
 - `clean_data`
   - Berisi dataset yang sudah di cleaning dari dataset mentah di directory 'data'.
-- `visualization_comparison_model_performence.ipynb`
+- `labeled_data`
   - Berisi dataset yang sudah dianotasi, tetapi belum dinormalisasikan ke vector.
 - `preprocess_data`
   - Berisi data yang sudah di normalisasikan menggunakan word2vec dan siap untuk dilatih menggunakan model.
